@@ -24,7 +24,8 @@
 |---|---|---|
 | 🧩 | **galaxy-plugin** | Плагин EuroScope (C++, Win32), лаунчер и установщик — исходный код |
 | 🚀 | [**galaxy-launcher**](https://github.com/Galaxy-ATM-for-ULLL/galaxy-launcher) | Публичные выпуски лаунчера — [скачать последнюю версию](https://github.com/Galaxy-ATM-for-ULLL/galaxy-launcher/releases/latest) |
-| 🌐 | **galaxy-server** | Сайт [galaxy-atm.ru](https://galaxy-atm.ru), API плагина и лаунчера, сервер кодов |
+| 🌐 | **galaxy-server** | Сайт [galaxy-atm.ru](https://galaxy-atm.ru), API плагина, сервер кодов ответчика |
+| 📦 | **galaxy-launcher-server** | Бэкенд лаунчера: манифест выпусков, новости, вход через VATSIM |
 
 ### Как начать
 
