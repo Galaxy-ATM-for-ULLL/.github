@@ -22,13 +22,13 @@
 
 | | Репозиторий | Что внутри |
 |---|---|---|
-| 🧩 | **galaxy-plugin** | Плагин EuroScope (C++, Win32) и установщик |
-| 🚀 | [**galaxy-launcher**](https://github.com/Galaxy-ATM-for-ULLL/galaxy-launcher) | Лаунчер Galaxy ATM (Win32 + WebView2) |
+| 🧩 | **galaxy-plugin** | Плагин EuroScope (C++, Win32), лаунчер и установщик — исходный код |
+| 🚀 | [**galaxy-launcher**](https://github.com/Galaxy-ATM-for-ULLL/galaxy-launcher) | Публичные выпуски лаунчера — [скачать последнюю версию](https://github.com/Galaxy-ATM-for-ULLL/galaxy-launcher/releases/latest) |
 | 🌐 | **galaxy-server** | Сайт [galaxy-atm.ru](https://galaxy-atm.ru), API плагина и лаунчера, сервер кодов |
 
 ### Как начать
 
-Скачайте лаунчер на [galaxy-atm.ru](https://galaxy-atm.ru), пройдите регистрацию в КСА и войдите в сеть VATSIM на позиции ULLL — лаунчер сам установит плагин, шрифты и секторы.
+Скачайте лаунчер на [galaxy-atm.ru](https://galaxy-atm.ru) или со [страницы выпусков](https://github.com/Galaxy-ATM-for-ULLL/galaxy-launcher/releases/latest), пройдите регистрацию в КСА и войдите в сеть VATSIM на позиции ULLL — лаунчер сам установит плагин, шрифты и секторы.
 
 ---
 
